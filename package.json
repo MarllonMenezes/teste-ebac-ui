@@ -16,10 +16,10 @@
     "url": "https://github.com/MarllonMenezes/Cypress/issues"
   },
   "homepage": "https://github.com/MarllonMenezes/Cypress#readme",
-  "devDependencies": {
-    "cypress": "^12.3.0"
-  },
   "dependencies": {
     "@faker-js/faker": "^7.6.0"
+  },
+  "devDependencies": {
+    "cypress": "^10.11.0"
   }
 }
