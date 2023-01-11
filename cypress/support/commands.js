@@ -24,7 +24,7 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 Cypress.Commands.add('login', (usuario,senha) => {  
-    cy.get("#username").type('alu@teste.com'); // Digita o usuário
-  cy.get("#password").type('teste@teste.com'); // Digita a senha
+    cy.get("#username").type('1aluno@teste.com'); // Digita o usuário
+  cy.get("#password").type('@Aluno123'); // Digita a senha
   cy.get(".woocommerce-form > .button").click(); // Clica no botão de login
 })
