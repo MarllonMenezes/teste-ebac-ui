@@ -1,0 +1,47 @@
+[
+
+{
+    "nome" : "lucia",
+    "sobrenome" : "quack",
+    "endereco" : "rua alibaba",
+    "numero" : "50",
+    "pais" : "Brasil",
+    "estado" : "Rio de janeiro",
+    "Cidade" : "Rio de janeiro",
+    "cep"   : "21061020",
+    "telefone" : "21111111",
+    "email" : "ali@ali.com"
+},
+
+{
+
+    "nome" : "Felipe",
+    "sobrenome" : "Jhon",
+    "endereco" : "rua selic",
+    "numero" : "520",
+    "pais" : "Brasil",
+    "estado" : "Rio de janeiro",
+    "Cidade" : "Cabo frio",
+    "cep"   : "21061120",
+    "telefone" : "21111111",
+    "email" : "laali@ali.com"
+
+},
+
+{
+
+    "nome" : "Hernesto",
+    "sobrenome" : "De La Cruz",
+    "endereco" : "rua do baba",
+    "numero" : "150",
+    "pais" : "Brasil",
+    "estado" : "Rio de janeiro",
+    "Cidade" : "Rio das ostras ",
+    "cep"   : "21061220",
+    "telefone" : "21111111",
+    "email" : "alila@ali.com"
+
+}
+
+
+]
